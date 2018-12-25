@@ -4,7 +4,6 @@ author: Kristoffer Nordström
 header-includes: |
   \usepackage{hyperref}
 abstract: My summary of the AMC lectures in Stockholm 2018.
-comment: pandoc -V theme=metropolis -t beamer --slide-level=2 -o Lecture\ Notes.pdf Lecture\ Notes.md
 ---
 
 # Introduction
